@@ -1,0 +1,13 @@
+"'Astral Contact App' As screen":
+    BackgroundImage: ='Background Contacts'
+    Fill: =RGBA(0, 0, 0, 0)
+    ImagePosition: =ImagePosition.Fill
+
+    appHeadComponent_1 As appHeadComponent:
+        Height: =122
+
+    DataFetchusingComponent As DataFetch_2:
+        Height: =1011
+        Y: =122
+        ZIndex: =2
+
