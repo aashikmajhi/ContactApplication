@@ -26,7 +26,7 @@ DataFetch_2 As CanvasComponent:
             Text: =ThisItem.UserPrincipalName
             Width: =560
             X: =31
-            Y: =55
+            Y: =62
             ZIndex: =2
 
         disName As label:
@@ -47,7 +47,7 @@ DataFetch_2 As CanvasComponent:
             Text: =ThisItem.Department
             Width: =246
             X: =154
-            Y: =31
+            Y: =38
             ZIndex: =4
 
         mobilePhone As label:
@@ -58,7 +58,7 @@ DataFetch_2 As CanvasComponent:
             Text: =ThisItem.TelephoneNumber
             Width: =245
             X: =117
-            Y: =88
+            Y: =95
             ZIndex: =5
 
         btnCall As icon.Phone:
@@ -115,7 +115,7 @@ DataFetch_2 As CanvasComponent:
                 ="Department:"
             Width: =135
             X: =30
-            Y: =31
+            Y: =38
             ZIndex: =10
 
         contctInfo As label:
@@ -127,7 +127,7 @@ DataFetch_2 As CanvasComponent:
                 ="Contact:"
             Width: =110
             X: =31
-            Y: =87
+            Y: =94
             ZIndex: =11
 
     searchBox As text:
