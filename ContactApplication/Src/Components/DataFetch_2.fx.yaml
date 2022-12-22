@@ -31,9 +31,10 @@ DataFetch_2 As CanvasComponent:
 
         disName As label:
             Font: =Font.Verdana
+            FontWeight: =FontWeight.Semibold
             Height: =37
             OnSelect: =Select(Parent)
-            Size: =21
+            Size: =19
             Text: =ThisItem.DisplayName
             Width: =560
             X: =31
@@ -83,7 +84,6 @@ DataFetch_2 As CanvasComponent:
             ZIndex: =7
 
         extension As label:
-            FontWeight: =FontWeight.Bold
             Height: =27
             OnSelect: =Select(Parent)
             Size: =14
@@ -120,7 +120,8 @@ DataFetch_2 As CanvasComponent:
 
     searchBox As text:
         Align: =Left
-        BorderThickness: =0
+        BorderStyle: =BorderStyle.Solid
+        BorderThickness: =3
         Default: =""
         Fill: =RGBA(241, 244, 249, 1)
         Height: =51
@@ -134,7 +135,7 @@ DataFetch_2 As CanvasComponent:
         Size: =21
         Width: =577
         X: =31
-        Y: =15
+        Y: =10
         ZIndex: =3
 
     lblContact As label:

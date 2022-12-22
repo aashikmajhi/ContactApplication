@@ -36,7 +36,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/22/2022 10:08:41",
+  "HeaderLastSavedDateTimeUTC": "12/22/2022 10:15:57",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "6a998128-18f4-43d6-8229-1e6364e2223e": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/235b20766fd44c0e9efcc34357395801\""
@@ -78,8 +78,8 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "gallery": 4,
-    "icon": 1,
-    "label": 0,
+    "icon": 0,
+    "label": 1,
     "rectangle": 3,
     "text": 2
   },
@@ -128,9 +128,9 @@
     "extnInfo_1": 19,
     "Gallery2_1": 11,
     "galleryTemplate2_1": 12,
-    "icoPhoneBook": 3,
+    "icoPhoneBook": 2,
     "icoSearch": 5,
-    "labelAppName": 2,
+    "labelAppName": 3,
     "lblCon": 7,
     "lblContact": 8,
     "mailAddress": 18,

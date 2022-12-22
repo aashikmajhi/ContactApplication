@@ -212,7 +212,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "15",
+            "InvariantScript": "10",
             "Property": "Y",
             "RuleProviderType": "Unknown"
           },
@@ -242,7 +242,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "0",
+            "InvariantScript": "3",
             "Property": "BorderThickness",
             "RuleProviderType": "Unknown"
           },
@@ -296,7 +296,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "BorderStyle.None",
+            "InvariantScript": "BorderStyle.Solid",
             "Property": "BorderStyle",
             "RuleProviderType": "Unknown"
           },
@@ -1942,7 +1942,14 @@
               "LineHeight",
               "BorderThickness",
               "FocusedBorderThickness",
-              "Size",
+              {
+                "AFDDataSourceName": "",
+                "AutoRuleBindingEnabled": false,
+                "AutoRuleBindingString": "",
+                "InvariantPropertyName": "Size",
+                "IsLockable": false,
+                "NameMapSourceSchema": "?"
+              },
               "Italic",
               "Underline",
               "Strikethrough",
@@ -2004,7 +2011,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "FontWeight.Normal",
+                "InvariantScript": "FontWeight.Semibold",
                 "Property": "FontWeight",
                 "RuleProviderType": "Unknown"
               },
@@ -2118,7 +2125,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "21",
+                "InvariantScript": "19",
                 "Property": "Size",
                 "RuleProviderType": "Unknown"
               },
@@ -3023,7 +3030,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "FontWeight.Bold",
+                "InvariantScript": "FontWeight.Normal",
                 "Property": "FontWeight",
                 "RuleProviderType": "Unknown"
               },
@@ -4971,7 +4978,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638073005113475216",
+    "LastModifiedTimestamp": "638073009493156635",
     "Name": "DataFetch_2",
     "Rules": [
       {
@@ -5030,7 +5037,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638073005113475216",
+  "LastModifiedTimestamp": "638073009493156635",
   "Name": "c8d669f7e049452a90d4a579b8c84921",
   "OverridableProperties": {},
   "TemplateOriginalName": "a779e6aa192f4b0fa07f53122bb3ad03",
