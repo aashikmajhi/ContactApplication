@@ -25,8 +25,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.UserPrincipalName
             Width: =560
-            X: =30
-            Y: =33
+            X: =31
+            Y: =55
             ZIndex: =2
 
         disName As label:
@@ -46,8 +46,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.Department
             Width: =246
-            X: =147
-            Y: =87
+            X: =154
+            Y: =31
             ZIndex: =4
 
         mobilePhone As label:
@@ -57,8 +57,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.TelephoneNumber
             Width: =245
-            X: =145
-            Y: =60
+            X: =117
+            Y: =88
             ZIndex: =5
 
         btnCall As icon.Phone:
@@ -100,7 +100,7 @@ DataFetch_2 As CanvasComponent:
             OnSelect: =Select(Parent)
             Size: =14
             Text: |-
-                ="ext :"
+                ="Ext :"
             Width: =49
             X: =387
             Y: =51
@@ -111,21 +111,23 @@ DataFetch_2 As CanvasComponent:
             Height: =28
             OnSelect: =Select(Parent)
             Size: =14
-            Text: ="Department"
-            Width: =125
+            Text: |-
+                ="Department:"
+            Width: =135
             X: =30
-            Y: =87
+            Y: =31
             ZIndex: =10
 
         contctInfo As label:
             FontWeight: =FontWeight.Semibold
-            Height: =22
+            Height: =31
             OnSelect: =Select(Parent)
             Size: =14
-            Text: ="Contact"
-            Width: =124
+            Text: |-
+                ="Contact:"
+            Width: =110
             X: =31
-            Y: =66
+            Y: =87
             ZIndex: =11
 
     searchBox As text:
@@ -155,7 +157,7 @@ DataFetch_2 As CanvasComponent:
         Text: ="Contact Details"
         Width: =227
         X: =63
-        Y: =80
+        Y: =73
         ZIndex: =4
 
     lblCon As icon.Person:
@@ -163,7 +165,7 @@ DataFetch_2 As CanvasComponent:
         Height: =36
         Icon: =Icon.Person
         X: =15
-        Y: =77
+        Y: =70
         ZIndex: =5
 
     call As label:
@@ -174,7 +176,7 @@ DataFetch_2 As CanvasComponent:
         Text: ="Call"
         Width: =71
         X: =537
-        Y: =83
+        Y: =76
         ZIndex: =6
 
     Rectangle2 As rectangle:
