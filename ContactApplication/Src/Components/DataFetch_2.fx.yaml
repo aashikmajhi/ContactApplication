@@ -7,26 +7,26 @@ DataFetch_2 As CanvasComponent:
     ZIndex: =1
 
     Gallery2_1 As gallery.galleryVertical:
-        Height: =936
+        Height: =493
         Items: |-
             =Filter(Search(Office365Users.SearchUser({searchTerm:""}), searchBox.Text, "DisplayName"),Not(IsBlank(Department)))
         Layout: =Layout.Vertical
         ShowScrollbar: =false
         TemplatePadding: =2
-        TemplateSize: =130
-        Y: =122
+        TemplateSize: =100
+        Y: =147
         ZIndex: =2
 
         mailAddress As label:
             Font: =Font.Lato
             FontWeight: =FontWeight.Semibold
-            Height: =33
+            Height: =31
             OnSelect: =Select(Parent)
             Size: =14
             Text: =ThisItem.UserPrincipalName
-            Width: =560
-            X: =31
-            Y: =62
+            Width: =338
+            X: =34
+            Y: =64
             ZIndex: =2
 
         disName As label:
@@ -46,7 +46,7 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.Department
             Width: =246
-            X: =154
+            X: =34
             Y: =38
             ZIndex: =4
 
@@ -57,8 +57,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.TelephoneNumber
             Width: =245
-            X: =117
-            Y: =95
+            X: =369
+            Y: =64
             ZIndex: =5
 
         btnCall As icon.Phone:
@@ -68,8 +68,8 @@ DataFetch_2 As CanvasComponent:
             OnSelect: |-
                 =Launch("tel://"&ThisItem.TelephoneNumber)
             Width: =43
-            X: =538
-            Y: =33
+            X: =551
+            Y: =20
             ZIndex: =6
 
         seprator As rectangle:
@@ -79,7 +79,7 @@ DataFetch_2 As CanvasComponent:
             OnSelect: =Select(Parent)
             TabIndex: =0
             Width: =636
-            Y: =125
+            Y: =96
             ZIndex: =7
 
         extension As label:
@@ -89,8 +89,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: =ThisItem.PostalCode
             Width: =49
-            X: =433
-            Y: =51
+            X: =338
+            Y: =37
             ZIndex: =8
 
         extnInfo As label:
@@ -102,38 +102,25 @@ DataFetch_2 As CanvasComponent:
             Text: |-
                 ="Ext :"
             Width: =49
-            X: =387
-            Y: =51
+            X: =292
+            Y: =37
             ZIndex: =9
 
-        deptInfo As label:
-            FontWeight: =FontWeight.Semibold
-            Height: =28
-            OnSelect: =Select(Parent)
-            Size: =14
-            Text: |-
-                ="Department:"
-            Width: =135
-            X: =30
-            Y: =38
-            ZIndex: =10
-
-        contctInfo As label:
+        extnInfo_1 As label:
+            Align: =Align.Right
             FontWeight: =FontWeight.Semibold
             Height: =31
             OnSelect: =Select(Parent)
             Size: =14
-            Text: |-
-                ="Contact:"
-            Width: =110
-            X: =31
-            Y: =94
-            ZIndex: =11
+            Text: ="/"
+            Width: =49
+            X: =320
+            Y: =64
+            ZIndex: =10
 
     searchBox As text:
         Align: =Left
         BorderThickness: =0
-        Color: =RGBA(50, 86, 160, 1)
         Default: =""
         Fill: =RGBA(241, 244, 249, 1)
         Height: =51
@@ -157,7 +144,7 @@ DataFetch_2 As CanvasComponent:
         Text: ="Contact Details"
         Width: =227
         X: =63
-        Y: =73
+        Y: =89
         ZIndex: =4
 
     lblCon As icon.Person:
@@ -165,7 +152,7 @@ DataFetch_2 As CanvasComponent:
         Height: =36
         Icon: =Icon.Person
         X: =15
-        Y: =70
+        Y: =86
         ZIndex: =5
 
     call As label:
@@ -176,13 +163,13 @@ DataFetch_2 As CanvasComponent:
         Text: ="Call"
         Width: =71
         X: =537
-        Y: =76
+        Y: =92
         ZIndex: =6
 
     Rectangle2 As rectangle:
         Height: =10
         Width: =640
-        Y: =112
+        Y: =128
         ZIndex: =7
 
     icoSearch As icon.Search:
@@ -193,4 +180,10 @@ DataFetch_2 As CanvasComponent:
         X: =49
         Y: =25
         ZIndex: =8
+
+    Rectangle2_1 As rectangle:
+        Height: =10
+        Width: =640
+        Y: =76
+        ZIndex: =9
 

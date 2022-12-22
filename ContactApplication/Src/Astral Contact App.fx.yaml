@@ -4,7 +4,9 @@
     ImagePosition: =ImagePosition.Fill
 
     appHeadComponent_1 As appHeadComponent:
-        Height: =122
+        Height: =129
+        X: =45
+        Y: =6
 
     DataFetchusingComponent As DataFetch_2:
         Height: =1011

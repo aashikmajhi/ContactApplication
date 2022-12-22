@@ -197,7 +197,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "41",
+            "InvariantScript": "24",
             "Property": "Y",
             "RuleProviderType": "Unknown"
           },
@@ -209,7 +209,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "145",
+            "InvariantScript": "84",
             "Property": "X",
             "RuleProviderType": "Unknown"
           },
@@ -429,13 +429,13 @@
         "Rules": [
           {
             "Category": "Design",
-            "InvariantScript": "47",
+            "InvariantScript": "30",
             "Property": "Y",
             "RuleProviderType": "Unknown"
           },
           {
             "Category": "Design",
-            "InvariantScript": "81",
+            "InvariantScript": "20",
             "Property": "X",
             "RuleProviderType": "Unknown"
           },
@@ -600,12 +600,19 @@
         "IsLockable": false,
         "NameMapSourceSchema": "?"
       },
-      "Width",
+      {
+        "AFDDataSourceName": "",
+        "AutoRuleBindingEnabled": false,
+        "AutoRuleBindingString": "",
+        "InvariantPropertyName": "Width",
+        "IsLockable": false,
+        "NameMapSourceSchema": "?"
+      },
       "X",
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638072989415134061",
+    "LastModifiedTimestamp": "638073003721412890",
     "Name": "appHeadComponent",
     "Rules": [
       {
@@ -628,15 +635,15 @@
       },
       {
         "Category": "Design",
-        "InvariantScript": "640",
+        "InvariantScript": "550",
         "Property": "Width",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
-        "InvariantScript": "150",
+        "InvariantScript": "110",
         "Property": "Height",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
@@ -664,7 +671,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638072989415134061",
+  "LastModifiedTimestamp": "638073003721412890",
   "Name": "1225682fc7e94240890036b45cb4b667",
   "OverridableProperties": {},
   "Version": "638042526211823620"
