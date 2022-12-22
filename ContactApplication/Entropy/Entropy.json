@@ -36,14 +36,14 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/22/2022 10:15:57",
+  "HeaderLastSavedDateTimeUTC": "12/22/2022 10:34:38",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "6a998128-18f4-43d6-8229-1e6364e2223e": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/235b20766fd44c0e9efcc34357395801\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
-    "Background Contacts": "e982425d-6d02-4508-89be-945a5fa7b646.png",
+    "Background Contacts": "2c7b081f-fee2-4cf8-bf71-f26cbda28098.png",
     "bg": "47d4334a-8fda-40c5-b5b7-a97d6ac7664a.jpg",
     "bg1": "b2acda82-8066-49f1-a514-d02d23fe598c.jpg",
     "bg2": "bf6018ae-c564-4082-8bfc-1c87bd8af033.jpg",
@@ -51,7 +51,7 @@
     "fabrizio-conti-aExT3y92x5o-unsplash": "84247138-8abf-4736-b4e6-d6cb1e5a3f9a.jpg"
   },
   "LocalResourceRootPaths": {
-    "Background Contacts": "https://docserverpwaprodeas.blob.core.windows.net/4f6b3bab-fe14-410b-9a43-6363e8803052-1/resource/Assets0Images0e982425d-6d02-4508-89be-945a5fa7b646.png?sv=2017-04-17&sr=b&sig=mPf4%2FSCmYmsGKBwSkFfSvsgUERe5tQR52g18z9qfjcQ%3D&spr=https&se=2022-12-23T09%3A57%3A21Z&sp=r",
+    "Background Contacts": "https://docserverpwaprodeas.blob.core.windows.net/4f6b3bab-fe14-410b-9a43-6363e8803052-1/resource/13024033-a4b5-45f0-8de4-fa27f036c56a.png?sv=2017-04-17&sr=b&sig=KLop9PglxwnUden6FlHu6PwoTu5aSnAalBaVgwxnZxs%3D&spr=https&se=2022-12-23T10%3A49%3A22Z&sp=r",
     "bg": "https://docserverpwaprodeas.blob.core.windows.net/4f6b3bab-fe14-410b-9a43-6363e8803052-1/resource/Assets0Images047d4334a-8fda-40c5-b5b7-a97d6ac7664a.jpg?sv=2017-04-17&sr=b&sig=edDvZNoXIiLgMpTcBhg2fITzHjBF5JkE4VU4KH51ehg%3D&spr=https&se=2022-12-23T09%3A57%3A21Z&sp=r",
     "bg1": "https://docserverpwaprodeas.blob.core.windows.net/4f6b3bab-fe14-410b-9a43-6363e8803052-1/resource/Assets0Images0b2acda82-8066-49f1-a514-d02d23fe598c.jpg?sv=2017-04-17&sr=b&sig=Z7znD74%2F5lYIvmPfkP5%2F1l9Fk2RVDokJa%2FbdIDT6CzI%3D&spr=https&se=2022-12-23T09%3A57%3A21Z&sp=r",
     "bg2": "https://docserverpwaprodeas.blob.core.windows.net/4f6b3bab-fe14-410b-9a43-6363e8803052-1/resource/Assets0Images0bf6018ae-c564-4082-8bfc-1c87bd8af033.jpg?sv=2017-04-17&sr=b&sig=y9syYrNPPfoPTYW1pWBJoBfQCBhwSztUiY6rTBVRSEw%3D&spr=https&se=2022-12-23T09%3A57%3A21Z&sp=r",
