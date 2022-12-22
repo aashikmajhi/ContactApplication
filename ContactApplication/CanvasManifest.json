@@ -113,8 +113,6 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Astral Contact App",
-    "Demo",
-    "filterUsers"
+    "Astral Contact App"
   ]
 }
