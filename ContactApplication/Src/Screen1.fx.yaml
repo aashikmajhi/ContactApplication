@@ -1,13 +1,12 @@
 Screen1 As screen:
-    OnVisible: |-
-        =Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        Collect(usersData,'Thakral Users');
+    OnVisible: =
 
     Timer1 As timer:
         AutoPause: =false
         AutoStart: =true
         Duration: =6000
         Height: =70
+        Visible: =false
         Width: =280
         X: =196
         Y: =430
