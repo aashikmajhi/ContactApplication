@@ -24,19 +24,11 @@ Screen1 As screen:
         Y: =790
         ZIndex: =1
 
-    Image1 As image:
-        Height: =320
-        Image: ='icons8-telephone-64'
-        Width: =320
-        X: =168
-        Y: =349
-        ZIndex: =2
-
     Image2 As image:
-        Height: =165
+        Height: =158
         Image: ='icons8-loading-bar'
-        Width: =320
-        X: =168
+        Width: =386
+        X: =135
         Y: =682
         ZIndex: =3
 
@@ -53,4 +45,12 @@ Screen1 As screen:
         X: =56
         Y: =147
         ZIndex: =4
+
+    Image3 As image:
+        Height: =320
+        Image: ='icons8-telephone-256'
+        Width: =320
+        X: =160
+        Y: =320
+        ZIndex: =5
 

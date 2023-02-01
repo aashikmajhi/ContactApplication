@@ -34,8 +34,8 @@
     "icoPhoneBook": 4,
     "icoSearch": 8,
     "icoSearch_1": 31,
-    "Image1": 50,
     "Image2": 51,
+    "Image3": 54,
     "labelAppName": 5,
     "lblCon": 10,
     "lblCon_1": 33,
@@ -58,7 +58,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/01/2023 11:40:57",
+  "HeaderLastSavedDateTimeUTC": "02/01/2023 11:45:52",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "424726b8-6ad4-417c-8e57-d0fb401fa8bd": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/072a7fa6c6714e29b6bec794f28596cd\"",
@@ -68,12 +68,12 @@
   "LocalResourceFileNames": {
     "Background Contacts": "2c7b081f-fee2-4cf8-bf71-f26cbda28098.png",
     "icons8-loading-bar": "69b042ff-53c0-46bf-996e-75e9059be111.gif",
-    "icons8-telephone-64": "b63bdad3-7360-4f03-8b83-61660e7fecad.png"
+    "icons8-telephone-256": "3fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png"
   },
   "LocalResourceRootPaths": {
     "Background Contacts": "https://docserverpwaprodseas.blob.core.windows.net/46f2004f-9c80-42ae-a9d3-6c22aedc2a05-1/resource/Assets0Images02c7b081f-fee2-4cf8-bf71-f26cbda28098.png?sv=2017-04-17&sr=b&sig=e4seO61J5Wpsk64aCwdOl%2BHxcp52yVWPjRhrzIGizYY%3D&spr=https&se=2023-02-02T11%3A39%3A07Z&sp=r",
     "icons8-loading-bar": "https://docserverpwaprodseas.blob.core.windows.net/46f2004f-9c80-42ae-a9d3-6c22aedc2a05-1/resource/0e1a904f-af35-405f-aea5-bb1660e15f96.gif?sv=2017-04-17&sr=b&sig=%2F2rZsrDtMqrff5xoDkwClZ9iw6%2FPmj8dBxHT50jl5MQ%3D&spr=https&se=2023-02-02T11%3A40%3A53Z&sp=r",
-    "icons8-telephone-64": "https://docserverpwaprodseas.blob.core.windows.net/46f2004f-9c80-42ae-a9d3-6c22aedc2a05-1/resource/491fc0fb-e8c7-4994-a3e8-791e56f9552c.png?sv=2017-04-17&sr=b&sig=DokfXdQgTZ%2BlezA6urhMiU5jO36Jn9KwPqMLCP%2FaWQw%3D&spr=https&se=2023-02-02T11%3A40%3A52Z&sp=r"
+    "icons8-telephone-256": "https://docserverpwaprodseas.blob.core.windows.net/46f2004f-9c80-42ae-a9d3-6c22aedc2a05-1/resource/eec40e33-210c-4ed9-b890-91c6f19ca2a6.png?sv=2017-04-17&sr=b&sig=9l5cL1OKt2YUFrrJOGTeCIsWPzb1IAWiUqcAzPfo1sg%3D&spr=https&se=2023-02-02T11%3A58%3A30Z&sp=r"
   },
   "OldLogoFileName": "ghnjtks4.jpg",
   "OrderComponentMetadata": {
@@ -96,10 +96,10 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 5,
+    "button": 6,
     "gallery": 4,
     "icon": 0,
-    "image": 6,
+    "image": 5,
     "label": 1,
     "rectangle": 3,
     "text": 2,
@@ -132,8 +132,8 @@
     "icoPhoneBook": {},
     "icoSearch": {},
     "icoSearch_1": {},
-    "Image1": {},
     "Image2": {},
+    "Image3": {},
     "labelAppName": {},
     "lblCon": {},
     "lblCon_1": {},
@@ -182,8 +182,8 @@
     "icoPhoneBook": 23,
     "icoSearch": 26,
     "icoSearch_1": 8,
-    "Image1": 1,
     "Image2": 2,
+    "Image3": 0,
     "labelAppName": 24,
     "lblCon": 28,
     "lblCon_1": 10,
@@ -207,7 +207,7 @@
   "ResourcesJsonIndices": {
     "Image-Background Contacts": 1,
     "Image-icons8-loading-bar": 3,
-    "Image-icons8-telephone-64": 2,
+    "Image-icons8-telephone-256": 2,
     "Image-SampleImage": 0
   },
   "RuleScreenIdWithoutScreen": {},

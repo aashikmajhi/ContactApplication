@@ -105,7 +105,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button1",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -287,7 +287,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "Image1": {
+    "Image2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Image",
@@ -329,8 +329,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image1",
-      "ParentIndex": 1,
+      "Name": "Image2",
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -482,7 +482,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Image2": {
+    "Image3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Image",
@@ -524,8 +524,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image2",
-      "ParentIndex": 2,
+      "Name": "Image3",
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
