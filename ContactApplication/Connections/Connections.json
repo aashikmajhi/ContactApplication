@@ -1,4 +1,29 @@
 {
+  "424726b8-6ad4-417c-8e57-d0fb401fa8bd": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/juanq/gateway/greyhound/3000.150.11/1.0.1613.3116/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://astralnepal.sharepoint.com/sites/NatRuleNITC": {
+        "dataSources": {
+          "Thakral Users": {
+            "tableName": "e74344a7-c7e1-46e4-b858-d88e9c967e0f"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Thakral Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "424726b8-6ad4-417c-8e57-d0fb401fa8bd"
+  },
   "6a998128-18f4-43d6-8229-1e6364e2223e": {
     "connectionParameters": {
       "sku": "Enterprise"

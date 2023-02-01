@@ -73,7 +73,7 @@
         "Name": "icoPhoneBook",
         "Parent": "appHeadComponent",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 21,
         "Rules": [
           {
             "Category": "Design",
@@ -336,7 +336,7 @@
         "Name": "labelAppName",
         "Parent": "appHeadComponent",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 3,
+        "PublishOrderIndex": 22,
         "Rules": [
           {
             "Category": "Data",
