@@ -9,8 +9,8 @@
         X: =87
         Y: =15
 
-    DataFetchusingComponent As DataFetch_2:
-        Height: =1011
-        Y: =122
+    DataFetch_3 As DataFetch_2:
+        Height: =1034
+        Y: =102
         ZIndex: =2
 

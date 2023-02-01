@@ -1,20 +1,20 @@
 DataFetch_2 As CanvasComponent:
     Fill: =RGBA(0, 0, 0, 0)
-    Height: =640
+    Height: =890
     Width: =640
     X: =0
     Y: =0
     ZIndex: =1
 
     Gallery2_1 As gallery.galleryVertical:
-        Height: =872
+        Height: =890
         Items: |-
             =Filter(Search(Office365Users.SearchUser({searchTerm:""}), searchBox.Text, "DisplayName"),Not(IsBlank(Department)))
         Layout: =Layout.Vertical
         ShowScrollbar: =false
         TemplatePadding: =2
         TemplateSize: =100
-        Y: =147
+        Y: =138
         ZIndex: =2
 
         mailAddress As label:
