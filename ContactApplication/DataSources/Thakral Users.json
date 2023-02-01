@@ -35,7 +35,8 @@
       "Modified": "Modified",
       "PostalCode": "PostalCode",
       "TelephoneNumber": "TelephoneNumber",
-      "Title": "Title"
+      "Title": "Title",
+      "UserPrincipalName": "UserPrincipalName"
     },
     "DatasetName": "https://astralnepal.sharepoint.com/sites/NatRuleNITC",
     "EncodeDataset": true,
