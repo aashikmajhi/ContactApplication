@@ -1,16 +1,14 @@
 Screen1 As screen:
-    OnVisible: |-
-        =Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        Collect(usersData,'Thakral Users');
+    OnVisible: =
 
     Timer1 As timer:
         AutoPause: =false
         AutoStart: =true
         Color: =RGBA(9, 33, 98, 1)
-        Duration: =200
+        Duration: =10000
         Fill: =RGBA(255, 255, 255, 1)
         Height: =270
-        OnTimerEnd: ='Astral Contact App trial'
+        OnTimerEnd: =Navigate('Astral Contact App trial')
         OnTimerStart: |-
             =Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
             Collect(usersData,'Thakral Users');

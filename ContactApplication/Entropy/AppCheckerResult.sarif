@@ -433,19 +433,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen1.OnVisible"
+                  "fullyQualifiedName": "App.OnStart"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Screen1.OnVisible",
+                  "fullyQualifiedName": "App.OnStart",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "OnVisible",
-                "module": "Screen1",
-                "type": "Screen1"
+                "member": "OnStart",
+                "module": "App",
+                "type": "App"
               }
             }
           ],

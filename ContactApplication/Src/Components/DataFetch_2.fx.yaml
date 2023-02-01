@@ -7,7 +7,7 @@ DataFetch_2 As CanvasComponent:
     ZIndex: =1
 
     Gallery2_1 As gallery.galleryVertical:
-        Height: =493
+        Height: =872
         Items: |-
             =Filter(Search(Office365Users.SearchUser({searchTerm:""}), searchBox.Text, "DisplayName"),Not(IsBlank(Department)))
         Layout: =Layout.Vertical
