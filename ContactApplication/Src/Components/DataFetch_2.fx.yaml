@@ -22,7 +22,7 @@ DataFetch_2 As CanvasComponent:
             FontWeight: =FontWeight.Semibold
             Height: =31
             OnSelect: |-
-                =Launch("mailto:<someEmailAddress>")
+                =Launch("mailto://"&ThisItem.UserPrincipalName)
             Size: =14
             Text: =ThisItem.UserPrincipalName
             Width: =338

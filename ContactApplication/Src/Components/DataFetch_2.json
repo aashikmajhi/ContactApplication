@@ -3822,7 +3822,7 @@
               },
               {
                 "Category": "Behavior",
-                "InvariantScript": "Launch(\"mailto:<someEmailAddress>\")",
+                "InvariantScript": "Launch(\"mailto://\"&ThisItem.UserPrincipalName)",
                 "Property": "OnSelect",
                 "RuleProviderType": "Unknown"
               }
@@ -4992,7 +4992,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638108440818843110",
+    "LastModifiedTimestamp": "638108444300564800",
     "Name": "DataFetch_2",
     "Rules": [
       {
@@ -5051,7 +5051,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638108440818843110",
+  "LastModifiedTimestamp": "638108444300564800",
   "Name": "c8d669f7e049452a90d4a579b8c84921",
   "OverridableProperties": {},
   "TemplateOriginalName": "a779e6aa192f4b0fa07f53122bb3ad03",
