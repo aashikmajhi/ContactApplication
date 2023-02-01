@@ -39,7 +39,7 @@
       },
       "MetaDataIDKey": "",
       "Name": "appHeadComponent_1",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -196,7 +196,7 @@
       },
       "MetaDataIDKey": "",
       "Name": "DataFetch_3",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
