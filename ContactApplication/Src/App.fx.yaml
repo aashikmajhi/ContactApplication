@@ -1,4 +1,5 @@
 App As appinfo:
     BackEnabled: =false
-    OnStart: ='Astral Contact App trial'
+    OnStart: =
+    StartScreen: =Screen1
 

@@ -73,7 +73,7 @@
         "Name": "icoPhoneBook",
         "Parent": "appHeadComponent",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 21,
+        "PublishOrderIndex": 22,
         "Rules": [
           {
             "Category": "Design",
@@ -336,7 +336,7 @@
         "Name": "labelAppName",
         "Parent": "appHeadComponent",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 22,
+        "PublishOrderIndex": 23,
         "Rules": [
           {
             "Category": "Data",
@@ -619,7 +619,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638108221381703289",
+    "LastModifiedTimestamp": "638108296060469798",
     "Name": "appHeadComponent",
     "Rules": [
       {
@@ -678,7 +678,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638108221381703289",
+  "LastModifiedTimestamp": "638108296060469798",
   "Name": "1225682fc7e94240890036b45cb4b667",
   "OverridableProperties": {},
   "Version": "638042526211823620"

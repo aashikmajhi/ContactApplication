@@ -2,11 +2,7 @@
     BackgroundImage: ='Background Contacts'
     Fill: =RGBA(0, 0, 0, 0)
     ImagePosition: =ImagePosition.Fill
-    OnVisible: |-
-        =//ClearCollect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        //ClearCollect(usersData,'Thakral Users')
-        Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        Collect(usersData,'Thakral Users');
+    OnVisible: =
 
     appHeadComponent_2 As appHeadComponent:
         Height: =87
