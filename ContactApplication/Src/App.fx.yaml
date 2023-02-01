@@ -1,7 +1,5 @@
 App As appinfo:
     BackEnabled: =false
-    OnStart: |-
-        =Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        Collect(usersData,'Thakral Users');
+    OnStart: =
     StartScreen: =Screen1
 
