@@ -1,9 +1,9 @@
 Screen1 As screen:
     BackgroundImage: ='Background Contacts'
     OnVisible: |-
-        =ClearCollect(usersData,{});
-        Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
-        Collect(usersData,'Thakral Users');
+        =//ClearCollect(usersData,{});
+        //Collect(usersData,Office365Users.SearchUser({searchTerm:""}));
+        //Collect(usersData,'Thakral Users');
 
     Timer1 As timer:
         AutoPause: =false

@@ -51,8 +51,8 @@
             Height: =28
             OnSelect: =Select(Parent)
             Size: =14
-            Text: =ThisItem.Department
-            Width: =246
+            Text: =ThisItem.Department & " Department"
+            Width: =330
             X: =34
             Y: =38
             ZIndex: =4
@@ -62,9 +62,10 @@
             Height: =31
             OnSelect: =Select(Parent)
             Size: =14
-            Text: =ThisItem.TelephoneNumber
-            Width: =245
-            X: =369
+            Text: |-
+                ="Ph: " &ThisItem.TelephoneNumber
+            Width: =200
+            X: =377
             Y: =64
             ZIndex: =5
 
@@ -75,7 +76,7 @@
             OnSelect: |-
                 =Launch("tel://"&ThisItem.TelephoneNumber)
             Width: =43
-            X: =551
+            X: =577
             Y: =20
             ZIndex: =6
 
@@ -90,39 +91,16 @@
             ZIndex: =7
 
         extension_1 As label:
-            Height: =27
-            OnSelect: =Select(Parent)
-            Size: =14
-            Text: =ThisItem.PostalCode
-            Width: =49
-            X: =338
-            Y: =37
-            ZIndex: =8
-
-        extnInfo_2 As label:
-            Align: =Align.Right
             FontWeight: =FontWeight.Semibold
             Height: =27
             OnSelect: =Select(Parent)
             Size: =14
             Text: |-
-                ="Ext :"
-            Width: =49
-            X: =292
+                ="Ext: " &ThisItem.PostalCode
+            Width: =91
+            X: =377
             Y: =37
-            ZIndex: =9
-
-        extnInfo_3 As label:
-            Align: =Align.Right
-            FontWeight: =FontWeight.Semibold
-            Height: =31
-            OnSelect: =Select(Parent)
-            Size: =14
-            Text: ="/"
-            Width: =49
-            X: =320
-            Y: =64
-            ZIndex: =10
+            ZIndex: =8
 
     searchBox_1 As text:
         Align: =Left
