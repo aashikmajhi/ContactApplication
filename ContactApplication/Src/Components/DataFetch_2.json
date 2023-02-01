@@ -3543,7 +3543,14 @@
               "Width",
               "Height",
               "DisplayMode",
-              "OnSelect",
+              {
+                "AFDDataSourceName": "",
+                "AutoRuleBindingEnabled": false,
+                "AutoRuleBindingString": "Select(Parent)",
+                "InvariantPropertyName": "OnSelect",
+                "IsLockable": false,
+                "NameMapSourceSchema": "?"
+              },
               "ZIndex",
               "LineHeight",
               "BorderThickness",
@@ -3815,7 +3822,7 @@
               },
               {
                 "Category": "Behavior",
-                "InvariantScript": "Select(Parent)",
+                "InvariantScript": "Launch(\"mailto:<someEmailAddress>\")",
                 "Property": "OnSelect",
                 "RuleProviderType": "Unknown"
               }
@@ -4985,7 +4992,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638108401116135865",
+    "LastModifiedTimestamp": "638108440818843110",
     "Name": "DataFetch_2",
     "Rules": [
       {
@@ -5044,7 +5051,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638108401116135865",
+  "LastModifiedTimestamp": "638108440818843110",
   "Name": "c8d669f7e049452a90d4a579b8c84921",
   "OverridableProperties": {},
   "TemplateOriginalName": "a779e6aa192f4b0fa07f53122bb3ad03",

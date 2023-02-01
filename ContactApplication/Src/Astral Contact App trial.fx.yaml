@@ -26,7 +26,8 @@
             Font: =Font.Lato
             FontWeight: =FontWeight.Semibold
             Height: =31
-            OnSelect: =Select(Parent)
+            OnSelect: |-
+                =Launch("mailto:<someEmailAddress>")
             Size: =14
             Text: =ThisItem.UserPrincipalName
             Width: =338
