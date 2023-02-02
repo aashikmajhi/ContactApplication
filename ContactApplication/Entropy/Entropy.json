@@ -16,7 +16,7 @@
     "Astral Contact App trial": 26,
     "btnCall": 17,
     "btnCall_1": 38,
-    "Button1": 46,
+    "Button1": 45,
     "call": 12,
     "call_1": 33,
     "DataFetch_2": 6,
@@ -35,7 +35,7 @@
     "icoSearch": 8,
     "icoSearch_1": 29,
     "Image2": 47,
-    "Image3": 45,
+    "Image3": 46,
     "labelAppName": 5,
     "lblCon": 10,
     "lblCon_1": 31,
@@ -58,7 +58,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/02/2023 00:43:55",
+  "HeaderLastSavedDateTimeUTC": "02/02/2023 06:40:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "424726b8-6ad4-417c-8e57-d0fb401fa8bd": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/072a7fa6c6714e29b6bec794f28596cd\"",
@@ -71,9 +71,9 @@
     "icons8-telephone-256": "3fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png"
   },
   "LocalResourceRootPaths": {
-    "Background Contacts": "https://docserverpwaprodseas.blob.core.windows.net/abe5b2f5-f331-47e3-85d1-05757caf7a0c-1/resource/Assets0Images02c7b081f-fee2-4cf8-bf71-f26cbda28098.png?sv=2017-04-17&sr=b&sig=ZLoCtifHhotKB8aGNMHbRhzuZLRkeHABPnGPVGfQAXY%3D&spr=https&se=2023-02-03T00%3A57%3A08Z&sp=r",
-    "icons8-loading-bar": "https://docserverpwaprodseas.blob.core.windows.net/abe5b2f5-f331-47e3-85d1-05757caf7a0c-1/resource/Assets0Images069b042ff-53c0-46bf-996e-75e9059be111.gif?sv=2017-04-17&sr=b&sig=ZvF4O4YXumTDVlBiuAhFoSBs%2B7PJ0tTm%2FxxvITb1FPI%3D&spr=https&se=2023-02-03T00%3A57%3A08Z&sp=r",
-    "icons8-telephone-256": "https://docserverpwaprodseas.blob.core.windows.net/abe5b2f5-f331-47e3-85d1-05757caf7a0c-1/resource/Assets0Images03fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png?sv=2017-04-17&sr=b&sig=SC0Ol%2FK1CHBt%2Bssg45KxSA%2BmxvK7DVwkxfz3v2XRkCg%3D&spr=https&se=2023-02-03T00%3A57%3A08Z&sp=r"
+    "Background Contacts": "https://docserverpwaprodeas.blob.core.windows.net/9844ffa3-6251-4c5a-9911-2c27349fe684-1/resource/Assets0Images02c7b081f-fee2-4cf8-bf71-f26cbda28098.png?sv=2017-04-17&sr=b&sig=wAbAM2oNvn1Y9V6K%2FTQvvEc9Vg7nC69CUVV7A0HLpcg%3D&spr=https&se=2023-02-03T03%3A43%3A31Z&sp=r",
+    "icons8-loading-bar": "https://docserverpwaprodeas.blob.core.windows.net/9844ffa3-6251-4c5a-9911-2c27349fe684-1/resource/Assets0Images069b042ff-53c0-46bf-996e-75e9059be111.gif?sv=2017-04-17&sr=b&sig=uMoVq0duxRz1cJrpHAeTBOQB20ztC8x5od%2BehkQmdHA%3D&spr=https&se=2023-02-03T03%3A43%3A31Z&sp=r",
+    "icons8-telephone-256": "https://docserverpwaprodeas.blob.core.windows.net/9844ffa3-6251-4c5a-9911-2c27349fe684-1/resource/Assets0Images03fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png?sv=2017-04-17&sr=b&sig=X2cIkGu1jbZJM5N2eaoWHgYGlLdk4wuEH4jwq0YwoR4%3D&spr=https&se=2023-02-03T03%3A43%3A31Z&sp=r"
   },
   "OldLogoFileName": "ghnjtks4.jpg",
   "OrderComponentMetadata": {
@@ -213,7 +213,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.445052,
+    "AnalysisLoadTime": 0.3300313,
     "ControlCount": {
       "1225682fc7e94240890036b45cb4b667": 3,
       "button": 1,
@@ -228,7 +228,7 @@
       "text": 2,
       "timer": 1
     },
-    "DeserializationLoadTime": 5.9774493,
+    "DeserializationLoadTime": 1.2833951,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
