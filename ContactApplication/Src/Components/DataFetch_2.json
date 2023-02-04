@@ -2655,7 +2655,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "379",
+                "InvariantScript": "363",
                 "Property": "X",
                 "RuleProviderType": "Unknown"
               },
@@ -3552,7 +3552,14 @@
               },
               "Align",
               "VerticalAlign",
-              "X",
+              {
+                "AFDDataSourceName": "",
+                "AutoRuleBindingEnabled": false,
+                "AutoRuleBindingString": "",
+                "InvariantPropertyName": "X",
+                "IsLockable": false,
+                "NameMapSourceSchema": "?"
+              },
               "Y",
               {
                 "AFDDataSourceName": "",
@@ -3704,7 +3711,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "364",
+                "InvariantScript": "363",
                 "Property": "X",
                 "RuleProviderType": "Unknown"
               },
@@ -4309,7 +4316,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638111142903857762",
+    "LastModifiedTimestamp": "638111162811603738",
     "Name": "DataFetch_2",
     "Rules": [
       {
@@ -4368,7 +4375,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638111142903857762",
+  "LastModifiedTimestamp": "638111162811603738",
   "Name": "c8d669f7e049452a90d4a579b8c84921",
   "OverridableProperties": {},
   "TemplateOriginalName": "a779e6aa192f4b0fa07f53122bb3ad03",

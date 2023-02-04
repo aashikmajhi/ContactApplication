@@ -60,7 +60,7 @@ DataFetch_2 As CanvasComponent:
             Text: |-
                 ="Ph: " &ThisItem.TelephoneNumber
             Width: =200
-            X: =364
+            X: =363
             Y: =64
             ZIndex: =5
 
@@ -93,7 +93,7 @@ DataFetch_2 As CanvasComponent:
             Text: |-
                 ="Ext: " &ThisItem.PostalCode
             Width: =145
-            X: =379
+            X: =363
             Y: =37
             ZIndex: =8
 
