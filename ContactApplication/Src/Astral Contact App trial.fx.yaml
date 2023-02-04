@@ -76,8 +76,8 @@
             OnSelect: |-
                 =Launch("tel://"&ThisItem.TelephoneNumber)
             Width: =43
-            X: =577
-            Y: =20
+            X: =562
+            Y: =25
             ZIndex: =6
 
         seprator_1 As rectangle:
@@ -97,8 +97,8 @@
             Size: =14
             Text: |-
                 ="Ext: " &ThisItem.PostalCode
-            Width: =91
-            X: =377
+            Width: =145
+            X: =387
             Y: =37
             ZIndex: =8
 

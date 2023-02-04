@@ -60,7 +60,7 @@ DataFetch_2 As CanvasComponent:
             Text: |-
                 ="Ph: " &ThisItem.TelephoneNumber
             Width: =200
-            X: =369
+            X: =364
             Y: =64
             ZIndex: =5
 
@@ -71,7 +71,7 @@ DataFetch_2 As CanvasComponent:
             OnSelect: |-
                 =Launch("tel://"&ThisItem.TelephoneNumber)
             Width: =43
-            X: =569
+            X: =559
             Y: =19
             ZIndex: =6
 
@@ -92,8 +92,8 @@ DataFetch_2 As CanvasComponent:
             Size: =14
             Text: |-
                 ="Ext: " &ThisItem.PostalCode
-            Width: =105
-            X: =369
+            Width: =145
+            X: =379
             Y: =37
             ZIndex: =8
 

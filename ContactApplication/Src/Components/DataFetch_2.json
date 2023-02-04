@@ -2309,7 +2309,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "569",
+                "InvariantScript": "559",
                 "Property": "X",
                 "RuleProviderType": "Unknown"
               },
@@ -2637,7 +2637,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "105",
+                "InvariantScript": "145",
                 "Property": "Width",
                 "RuleProviderType": "Unknown"
               },
@@ -2655,7 +2655,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "369",
+                "InvariantScript": "379",
                 "Property": "X",
                 "RuleProviderType": "Unknown"
               },
@@ -3704,7 +3704,7 @@
               },
               {
                 "Category": "Design",
-                "InvariantScript": "369",
+                "InvariantScript": "364",
                 "Property": "X",
                 "RuleProviderType": "Unknown"
               },
@@ -4309,7 +4309,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "638109053114176886",
+    "LastModifiedTimestamp": "638110809456519584",
     "Name": "DataFetch_2",
     "Rules": [
       {
@@ -4368,7 +4368,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638109053114176886",
+  "LastModifiedTimestamp": "638110809456519584",
   "Name": "c8d669f7e049452a90d4a579b8c84921",
   "OverridableProperties": {},
   "TemplateOriginalName": "a779e6aa192f4b0fa07f53122bb3ad03",
