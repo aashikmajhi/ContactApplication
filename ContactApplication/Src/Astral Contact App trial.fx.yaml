@@ -65,7 +65,7 @@
             Text: |-
                 ="Ph: " &ThisItem.TelephoneNumber
             Width: =200
-            X: =377
+            X: =369
             Y: =64
             ZIndex: =5
 
@@ -98,7 +98,7 @@
             Text: |-
                 ="Ext: " &ThisItem.PostalCode
             Width: =145
-            X: =387
+            X: =369
             Y: =37
             ZIndex: =8
 
