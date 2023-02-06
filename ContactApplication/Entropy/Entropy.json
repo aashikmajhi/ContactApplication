@@ -58,7 +58,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/04/2023 15:17:49",
+  "HeaderLastSavedDateTimeUTC": "02/06/2023 06:29:37",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "424726b8-6ad4-417c-8e57-d0fb401fa8bd": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/072a7fa6c6714e29b6bec794f28596cd\"",
@@ -71,9 +71,9 @@
     "icons8-telephone-256": "3fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png"
   },
   "LocalResourceRootPaths": {
-    "Background Contacts": "https://docserverpwaprodseas.blob.core.windows.net/b907ae44-4983-4f10-acc6-f86f93c45bcc-1/resource/Assets0Images02c7b081f-fee2-4cf8-bf71-f26cbda28098.png?sv=2017-04-17&sr=b&sig=mJxo2ivxPBcXw29NM71OYThCdIw6nvXTlFC0ffRcSi0%3D&spr=https&se=2023-02-05T13%3A46%3A30Z&sp=r",
-    "icons8-loading-bar": "https://docserverpwaprodseas.blob.core.windows.net/b907ae44-4983-4f10-acc6-f86f93c45bcc-1/resource/Assets0Images069b042ff-53c0-46bf-996e-75e9059be111.gif?sv=2017-04-17&sr=b&sig=Qxgg3koNAs%2FTFjIEsn9rVY3TphahAhB8Rfg3nJYkxIQ%3D&spr=https&se=2023-02-05T13%3A46%3A30Z&sp=r",
-    "icons8-telephone-256": "https://docserverpwaprodseas.blob.core.windows.net/b907ae44-4983-4f10-acc6-f86f93c45bcc-1/resource/Assets0Images03fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png?sv=2017-04-17&sr=b&sig=ORoJRQ3UHeTJaFj%2F%2BvVvu%2F6nuiRgJ2%2BzYdkC07ki%2BYM%3D&spr=https&se=2023-02-05T13%3A46%3A30Z&sp=r"
+    "Background Contacts": "https://docserverpwaprodseas.blob.core.windows.net/6b949a79-d7f4-48b6-96d4-e5f0cc82ff1e-1/resource/Assets0Images02c7b081f-fee2-4cf8-bf71-f26cbda28098.png?sv=2017-04-17&sr=b&sig=Zx1xY2UQFoxnJMbDbBHjTgY4uE8gFntSjelra%2B1lqDg%3D&spr=https&se=2023-02-07T03%3A28%3A14Z&sp=r",
+    "icons8-loading-bar": "https://docserverpwaprodseas.blob.core.windows.net/6b949a79-d7f4-48b6-96d4-e5f0cc82ff1e-1/resource/Assets0Images069b042ff-53c0-46bf-996e-75e9059be111.gif?sv=2017-04-17&sr=b&sig=HNbcDSaFKLm8lW%2Fvg7%2BCDZePSvh4hWKOR4syxjmgolg%3D&spr=https&se=2023-02-07T03%3A28%3A14Z&sp=r",
+    "icons8-telephone-256": "https://docserverpwaprodseas.blob.core.windows.net/6b949a79-d7f4-48b6-96d4-e5f0cc82ff1e-1/resource/Assets0Images03fe6c9d9-4bad-4cb4-aea9-f95cc25494ed.png?sv=2017-04-17&sr=b&sig=9C1mRr1L9z9UZTvtWZjJVk8Qm24rYE2VG0ib6e24Oo0%3D&spr=https&se=2023-02-07T03%3A28%3A14Z&sp=r"
   },
   "OldLogoFileName": "ghnjtks4.jpg",
   "OrderComponentMetadata": {
@@ -213,7 +213,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.4775395,
+    "AnalysisLoadTime": 0.5540636,
     "ControlCount": {
       "1225682fc7e94240890036b45cb4b667": 3,
       "button": 1,
@@ -228,7 +228,7 @@
       "text": 2,
       "timer": 1
     },
-    "DeserializationLoadTime": 2.5332138,
+    "DeserializationLoadTime": 2.6002271,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
